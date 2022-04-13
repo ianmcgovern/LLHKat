@@ -20,8 +20,11 @@ nav {
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
 }
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
 a:hover {
-    text-emphasis: 20px;
     color: oldlace;
     transition: ease-in-out 400ms;
 }
