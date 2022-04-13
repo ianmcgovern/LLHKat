@@ -16,6 +16,9 @@ nav ul {
     display: flex;
     flex-flow: row wrap;
 }
+nav li {
+    display: block;
+}
 
 /******* Layout *******/
 .container {
