@@ -12,9 +12,9 @@ li {
     font-family: "fantasy";
 }
 nav {
-    border: solid thin;
-    border-bottom-right-radius: 15%;
-    border-bottom-left-radius: 15%;
+    border: solid thin navy;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
 }
 /******* Nav Layout *******/
 nav {
