@@ -21,9 +21,8 @@ nav {
     border-bottom-left-radius: 50%;
 }
 a:hover {
-    text-transform: uppercase;
+    text-emphasis: 20px;
     color: oldlace;
-    opacity: 50%;
     transition: ease-in-out 400ms;
 }
 /******* Nav Layout *******/
