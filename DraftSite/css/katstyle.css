@@ -1,5 +1,8 @@
-body {
-    background-image: -moz-linear-gradient(50%);
+header {
+    color: snow;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 2rem;
+    background-color: palevioletred;
 }
-
 /******* Layout *******/
