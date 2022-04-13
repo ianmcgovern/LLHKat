@@ -27,6 +27,8 @@ a:link, a:visited {
 a:hover {
     color: oldlace;
     transition: ease-in-out 400ms;
+    border-left: oldlace thin;
+    border-right: oldlace thin;
 }
 /******* Nav Layout *******/
 nav {
