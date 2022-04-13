@@ -64,13 +64,18 @@ nav li {
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 60rem) {
-
+    .info {
+        display: flex;
+        flex-flow: row wrap;
+    }
 }
 
 /******* Components *******/
 .circle1 {
     border-radius: 100%;
     border: solid;
+    border-color: plum;
     text-align: center;
+
 }
     
