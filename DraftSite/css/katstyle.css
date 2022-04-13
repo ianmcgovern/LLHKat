@@ -6,6 +6,11 @@ header {
     background-color: palevioletred;
     grid-column: span 12;
 }
+/******* Nav Layout *******/
+.nav {
+    
+}
+
 /******* Layout *******/
 .container {
     display: grid;
