@@ -11,6 +11,10 @@ li {
     font-size: 15px;
     font-family: "fantasy";
 }
+nav {
+    border: solid thin;
+    border-radius: 15%;
+}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
@@ -19,7 +23,6 @@ nav {
     justify-content: center;
     position: static;
     top: 0;
-    border: solid;
 }
 nav ul {
     margin: 0;
