@@ -12,7 +12,7 @@ li {
     font-family: "fantasy";
 }
 nav {
-    border: solid thin navy;
+    border: solid thin palevioletred;
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
 }
@@ -33,7 +33,7 @@ nav ul {
     flex-flow: row wrap;
 }
 nav li {
-    margin: 0 0.5rem;
+    margin: auto;
 }
 
 /******* Layout *******/
