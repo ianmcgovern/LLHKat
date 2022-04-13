@@ -7,6 +7,7 @@ header {
     grid-column: span 12;
 }
 /******* Nav Layout *******/
+
 ul {
     list-style: none;
     display: flex;
