@@ -76,6 +76,7 @@ nav li {
     border: solid;
     border-color: plum;
     text-align: center;
+    grid-column: 1 span 4;
 
 }
     
