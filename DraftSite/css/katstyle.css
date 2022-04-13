@@ -45,6 +45,9 @@ nav a:hover {
     width: min(95%)
     margin: auto;
 }
+.container > * {
+    grid-column: span 12;
+}
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 60rem) {
