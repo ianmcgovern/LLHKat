@@ -9,7 +9,7 @@ header {
     padding: 2.5rem;
     background-color: lightseagreen;
     grid-column: span 12;
-    opacity: 0%;
+    opacity: 100%;
 }
 li {
     color: black;
@@ -29,7 +29,7 @@ nav {
     justify-content: center;
     position: relative;
     top: 0;
-    opacity: 0%;
+    opacity: 100%;
 }
 nav ul {
     margin: 0;
@@ -45,7 +45,7 @@ nav li {
 /******* Layout *******/
 .container {
     background-color: ivory;
-    opacity: 35%;
+    opacity: 65%;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     width: min(95%)
