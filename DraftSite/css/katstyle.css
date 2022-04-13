@@ -21,8 +21,10 @@ nav {
     border-bottom-left-radius: 50%;
 }
 a:hover {
-    text-transform: capitalize;
-    text-decoration: overline;
+    text-transform: uppercase;
+    color: oldlace;
+    opacity: 50%;
+    transition: ease-in-out 400ms;
 }
 /******* Nav Layout *******/
 nav {
