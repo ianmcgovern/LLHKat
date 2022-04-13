@@ -45,3 +45,9 @@ nav a:hover {
     width: min(95%)
     margin: auto;
 }
+
+/******* Desktop Layout *******/
+@media screen and (min-width: none) {
+    
+}
+    
