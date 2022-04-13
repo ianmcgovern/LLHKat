@@ -33,7 +33,7 @@ nav ul {
     flex-flow: row wrap;
 }
 nav li {
-    margin: auto;
+    margin: 2rem;
 }
 
 /******* Layout *******/
