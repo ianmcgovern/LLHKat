@@ -71,5 +71,6 @@ nav li {
 .circle1 {
     border-radius: 100%;
     border: solid;
+    text-align: center;
 }
     
