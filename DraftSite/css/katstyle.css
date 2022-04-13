@@ -1,10 +1,5 @@
-.circle {
-    border: solid;
-    border-radius: 50%;
-    height: 50px;
-    width: 50px;
-    border-color: indianred;
-    
+body {
+    background-image: -moz-linear-gradient(50%);
 }
 
 /******* Layout *******/
