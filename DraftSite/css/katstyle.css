@@ -6,6 +6,11 @@ header {
     background-color: lightseagreen;
     grid-column: span 12;
 }
+li {
+    color:lightslategrey;
+    font-size: 15px;
+    font-family: "fantasy";
+}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
