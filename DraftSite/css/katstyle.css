@@ -10,4 +10,5 @@ header {
 .container {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
+    width: max-content
 }
