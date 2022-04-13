@@ -79,7 +79,6 @@ nav li {
     text-align: center;
     grid-column: 1 span 4;
     margin: 2rem;
-    padding-bottom: 2rem;
-    opacity: 25%;
+    padding-bottom: 4rem;
 }
     
