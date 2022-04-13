@@ -74,6 +74,8 @@ nav li {
 .circle1 {
     border-radius: 100%;
     border: solid;
+    border-width: 30px;
+    
     border-color: plum;
     text-align: center;
     grid-column: 1 span 4;
