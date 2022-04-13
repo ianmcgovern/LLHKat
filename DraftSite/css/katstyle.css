@@ -9,7 +9,7 @@ header {
 /******* Nav Layout *******/
 ul {
     list-style: none;
-    display: inline-block;
+    display: flex;
     text-align: justify;
 }
 
