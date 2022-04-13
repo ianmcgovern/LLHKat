@@ -1,5 +1,6 @@
 body {
     margin: auto 10%;
+    background-image: url();
 }
 header {
     color: snow;
@@ -8,6 +9,7 @@ header {
     padding: 2.5rem;
     background-color: lightseagreen;
     grid-column: span 12;
+    position: fixed;
 }
 li {
     color: black;
