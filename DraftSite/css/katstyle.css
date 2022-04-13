@@ -20,6 +20,10 @@ nav {
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
 }
+a:hover {
+    text-transform: capitalize;
+    text-decoration: overline;
+}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
