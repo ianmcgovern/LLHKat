@@ -9,7 +9,6 @@ header {
     padding: 2.5rem;
     background-color: lightseagreen;
     grid-column: span 12;
-    position: fixed;
 }
 li {
     color: black;
@@ -27,7 +26,7 @@ nav {
     padding: 0 1rem;
     display: flex;
     justify-content: center;
-    position: fixed;
+    position: relative;
     top: 0;
 }
 nav ul {
