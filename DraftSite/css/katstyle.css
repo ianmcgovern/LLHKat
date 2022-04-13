@@ -1,5 +1,6 @@
 .circle {
-    border-radius: 50% solid;
+    border: solid;
+    border-radius: 50%;
     height: 50px;
     width: 50px;
     border-color: indianred;
