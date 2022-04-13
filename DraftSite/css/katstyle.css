@@ -7,7 +7,7 @@ header {
     grid-column: span 12;
 }
 li {
-    color: darkcyan;
+    color: black;
     font-size: 25px;
     font-family: "fantasy";
 }
