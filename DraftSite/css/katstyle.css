@@ -9,5 +9,4 @@ header {
 .container {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    gap: 2rem;
 }
