@@ -7,7 +7,7 @@ header {
     grid-column: span 12;
 }
 /******* Nav Layout *******/
-.nav {
+ul {
     list-style: none;
 }
 
