@@ -2,7 +2,7 @@ header {
     color: snow;
     text-align: center;
     font-size: 35px;
-    padding: 3rem;
+    padding: 2.5rem;
     background-color: palevioletred;
     grid-column: span 12;
 }
