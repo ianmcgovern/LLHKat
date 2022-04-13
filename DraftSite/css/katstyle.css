@@ -70,5 +70,6 @@ nav li {
 /******* Components *******/
 .circle1 {
     border-radius: 100%;
+    border: solid;
 }
     
