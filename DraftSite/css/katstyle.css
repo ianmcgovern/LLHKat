@@ -13,7 +13,8 @@ li {
 }
 nav {
     border: solid thin;
-    border-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 15%;
 }
 /******* Nav Layout *******/
 nav {
