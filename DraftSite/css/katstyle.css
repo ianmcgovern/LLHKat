@@ -30,6 +30,9 @@ a:hover {
     border-left: oldlace thin;
     border-right: oldlace thin;
 }
+div ul {
+    font-size: 15px;
+}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
