@@ -72,6 +72,7 @@ nav li {
 
 /******* Components *******/
 .graphic1 {
+    background-blend-mode: normal;
     border-radius: 15%;
     border: solid;
     border-width: 5px;
