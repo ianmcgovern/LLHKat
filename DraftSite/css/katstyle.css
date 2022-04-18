@@ -66,6 +66,7 @@ nav li {
 @media screen and (min-width: 40rem) {
     .info {
         display: grid;
+        grid-template-columns: repeat(12, 1fr);
         grid-column: 1 span 4;
     }
 }
