@@ -89,6 +89,7 @@ nav li {
     grid-column: span 6;
     margin: 2rem;
     padding-bottom: 2rem;
+    padding-left: 1rem;
 }
 .graphic2 {
     border-radius: 15%;
@@ -100,5 +101,6 @@ nav li {
     grid-column: span 6;
     margin: 2rem;
     padding-bottom: 2rem;
+    padding-left: 1rem;
 }
     
