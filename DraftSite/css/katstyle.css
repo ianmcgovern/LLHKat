@@ -63,7 +63,6 @@ nav li {
 }
 .info {
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
     grid-column: 1 span 4;
 
 /******* Desktop Layout *******/
