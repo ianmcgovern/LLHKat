@@ -77,7 +77,7 @@ nav li {
     text-align: right;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-column: span 4;
+    grid-column: span 6;
     margin: 2rem;
     padding-bottom: 4rem;
     justify-content: space-evenly;
