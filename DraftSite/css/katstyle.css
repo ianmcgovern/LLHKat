@@ -64,7 +64,6 @@ nav li {
 .info {
     display: grid;
     grid-template-columns: inherit;
-    grid-column: 1 span 4;
 }
 
 /******* Desktop Layout *******/
@@ -77,6 +76,7 @@ nav li {
     border-width: 5px;
     border-color: plum;
     text-align: right;
+    grid-column: 1 span 4;
     margin: 2rem;
     padding-bottom: 4rem;
     justify-content: space-evenly;
