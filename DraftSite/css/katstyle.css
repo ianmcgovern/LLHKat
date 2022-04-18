@@ -32,6 +32,7 @@ a:hover {
 }
 div ul {
     font-size: 10px;
+    list-style: none;
 }
 /******* Nav Layout *******/
 nav {
