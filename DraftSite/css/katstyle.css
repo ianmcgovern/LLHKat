@@ -78,7 +78,6 @@ nav li {
     border-color: plum;
     text-align: left;
     display: grid;
-    grid-template-columns: inherit;
     grid-column: span 6;
     margin: 2rem;
     padding-bottom: 2rem;
