@@ -88,5 +88,6 @@ nav li {
     grid-column: span 6;
     margin: 2rem;
     padding-bottom: 2rem;
+    padding-inline: 1rem;
 }
     
