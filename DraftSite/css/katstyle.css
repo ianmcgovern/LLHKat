@@ -30,7 +30,7 @@ a:hover {
     border-left: oldlace thin;
     border-right: oldlace thin;
 }
-div ul {
+.info li {
     font-size: 10px;
     list-style: none;
 }
