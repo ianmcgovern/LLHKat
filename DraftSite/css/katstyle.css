@@ -71,12 +71,12 @@ nav li {
 }
 
 /******* Components *******/
-.circle1 {
-    border-radius: 100%;
+.graphic1 {
+    border-radius: 15%;
     border: solid;
-    border-width: 10px;
+    border-width: 5px;
     border-color: plum;
-    text-align: center;
+    text-align: right;
     grid-column: 1 span 4;
     margin: 2rem;
     padding-bottom: 4rem;
