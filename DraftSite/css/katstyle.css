@@ -65,7 +65,7 @@ nav li {
 /******* Desktop Layout *******/
 @media screen and (min-width: 60rem) {
     .info {
-        display: inherit;
+        display: inline;
         grid-column: span 12;
     }
 }
