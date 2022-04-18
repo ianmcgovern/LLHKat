@@ -80,5 +80,6 @@ nav li {
     grid-column: 1 span 4;
     margin: 2rem;
     padding-bottom: 4rem;
+    justify-content: center;
 }
     
