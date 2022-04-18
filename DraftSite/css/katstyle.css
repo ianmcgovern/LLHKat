@@ -81,7 +81,7 @@ nav li {
     border-width: 5px;
     border-color: plum;
     justify-content: right;
-    display: grid;
+    display: flex;
     grid-column: span 6;
     margin: 2rem;
     padding-bottom: 2rem;
